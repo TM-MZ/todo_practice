@@ -13,7 +13,7 @@ Todoを管理するアプリです。
 - タスク削除
 
 ## 使用技術（実行環境）
--　　Laravel　9.x（言語やフレームワーク、バージョンなどが記載されていると良い）
+-　　Laravel　9.x
 
 ## テーブル設計
 ![table_design_ss](https://user-images.githubusercontent.com/115058763/198351980-b678eddb-86ca-4c89-b2f1-7b44c0e839fc.png)
